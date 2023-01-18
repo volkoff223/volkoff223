@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas Voelker.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Astro.
+- 🌱 I’m currently learning Astro and Svelte.
 - 📫 volkoff223@gmail.com
 
 <!---
