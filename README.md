@@ -5,8 +5,9 @@ Results-driven software developer with 21 years of military experience, includin
 
 ## TECHNICAL SKILLS
 
-- **Languages & Frameworks:** Python, JavaScript, Go, React, SvelteKit, Astro
-- **Database Systems:** MySQL, MongoDB, Firebase, Salesforce Administration
-- **Development Tools:** Git, Linux, GIMP, Photoshop
-- **Additional:** Active TS/SCI clearance, Master Training Specialist
+- **Languages & Frameworks:** JavaScript, HTML, CSS, Bootstrap, Python, Go, React, SvelteKit, Astro
+- **System Administration & Automation:** Red Hat Enterprise Linux (RHEL), OpenShift, Ansible, Bash, SSH, VIM
+- **Database Systems:** MySQL, MongoDB, Firebase, PocketBase
+- **Development Tools:** Git, Photoshop, GIMP, Figma, Adobe XD
+- **Security & Compliance:** TS/SCI Clearance, CompTIA Security+, OSHA 10 Hour Maritime Industry Course
 
